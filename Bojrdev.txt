@@ -3,7 +3,7 @@
 "version": "test v1",
 	"iron": "Ad",
 	
-	"ironId": "137e24039",
+	"ironId": "",
 	"ironBanner": "DefaultBanner",
 	"ironInter": "DefaultInterstitial",
 	"ironReward": "DefaultRewardedVideo",
@@ -20,7 +20,7 @@
 	
 	"FanInter": "",
 	"FanBanner": "",
-	"FanReward": "S70HWT5-gfhVMe0ohwlgAZu2R-c8kheV02WbFhwF_zF5DzVxiivfNg-AeKK-BmFy967tn5Re4FfIfNaXqn9cN_",
+	"FanReward": "",
 
 	"unity": "Ad",
 	
