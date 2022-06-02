@@ -12,8 +12,8 @@
 	"admob": "Ad",
 
 	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-	"interId": "",
-	"bannerId": "",
+	"interId": "ca-app-pub-8274832432691818/1204464325",
+	"bannerId": "ca-app-pub-8274832432691818/4213771049",
 	"rewardadmob": "",
 
 	"facebook": "Ad",
