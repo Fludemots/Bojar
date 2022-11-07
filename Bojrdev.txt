@@ -11,9 +11,9 @@
 
 	"admob": "Ad",
 
-	"AdmobAppId": "ca-app-pub-8274832432691818~8344587741",
-	"interId": "ca-app-pub-8274832432691818/1204464325",
-	"bannerId": "ca-app-pub-8274832432691818/4213771049",
+	"AdmobAppId": "",
+	"interId": "",
+	"bannerId": "",
 	"rewardadmob": "",
 
 	"facebook": "Ad",
@@ -24,7 +24,7 @@
 
 	"unity": "Ad",
 	
-	"UnityAppId": "3913829",
+	"UnityAppId": "",
 	"UnityInter": "video",
 	"Unitybanner": "banner",
 	"unityreward": "rewardedVideo"
