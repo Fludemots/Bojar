@@ -12,9 +12,9 @@
 	"admob": "Ad",
 
 	"AdmobAppId": "ca-app-pub-3940256099942544~3347511713",
-	"interId": "ca-app-pub-3940256099942544/6300978111",
-	"bannerId": "ca-app-pub-3940256099942544/1033173712",
-	"rewardadmob": "ca-app-pub-3940256099942544/8691691433",
+	"interId": "ca-app-pub-9045929885488662/8852502241",
+	"bannerId": "ca-app-pub-9045929885488662/1165583911",
+	"rewardadmob": "ca-app-pub-9045929885488662/8412097666",
 
 	"facebook": "Ad",
 	
